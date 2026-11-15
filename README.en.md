@@ -33,3 +33,9 @@ A number as `float` (32 bits) or `double` (64 bits): sign, exponent and mantissa
 ## Data
 
 The last numbers, the text and the open tab are kept in the plugin's folder. Permission: `storage` only.
+
+## Version 1.1.0
+
+- Larger text and clickable bits; the app uses the full width (32 bits on one line).
+- **Ready-made masks** (Number tab): set, clear, toggle or test bit n, keep the n low bits. Each mask shows the computation (x, the mask, the result) and explains why it works.
+- **Sliding bits** (Operations tab): for <<, >>, >>>, ROL and ROR, the "Watch the bits slide" button shows the shift one position at a time.

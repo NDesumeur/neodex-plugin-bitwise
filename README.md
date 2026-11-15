@@ -33,3 +33,9 @@ Un nombre en `float` (32 bits) ou `double` (64 bits) : le signe, l'exposant et l
 ## Données
 
 Les derniers nombres, le texte et l'onglet ouvert sont gardés dans le dossier du plugin. Autorisation : `storage` seulement.
+
+## Version 1.1.0
+
+- Textes et bits cliquables plus grands ; l'appli prend toute la largeur (32 bits sur une ligne).
+- **Masques prêts à l'emploi** (onglet Nombre) : allumer, éteindre, basculer ou tester le bit n, garder les n bits du bas. Chaque masque montre le calcul (x, le masque, le résultat) et explique pourquoi il marche.
+- **Les bits qui glissent** (onglet Opérations) : pour <<, >>, >>>, ROL et ROR, le bouton « Voir les bits glisser » montre le décalage case par case.
