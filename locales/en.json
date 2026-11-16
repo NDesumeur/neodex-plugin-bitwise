@@ -133,5 +133,9 @@
  "× : multiplication ; seuls les bits de poids faible tiennent dans la largeur choisie.": "×: multiplication; only the low bits fit in the chosen width.",
  "à": "to",
  "− : soustraction ; en complément à deux, A − B est A + (NOT B + 1).": "−: subtraction; in two's complement, A − B is A + (NOT B + 1).",
- "▶ Voir les bits glisser": "▶ Watch the bits slide"
+ "▶ Voir les bits glisser": "▶ Watch the bits slide",
+ "le bit": "bit",
+ "est allumé": "is on",
+ "est éteint": "is off",
+ "résultat =": "result ="
 }
