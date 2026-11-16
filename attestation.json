@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.bitwise",
   "repo": "NDesumeur/neodex-plugin-bitwise",
-  "version": "1.0.0",
-  "sha256": "4051005f8a39774442ea369956628a97dee4221290d018d4190c625c95ada2b7",
-  "approvedAt": "2026-11-12T06:35:37.851Z",
+  "version": "1.1.0",
+  "sha256": "d15cb0bb3ee920f6fd9a28413b3d91887da71010cda6743cb3627ab4b68fef6c",
+  "approvedAt": "2026-11-16T04:14:33.565Z",
   "neobase": ">=4.0.0",
-  "signature": "evC4TD+5px6iXlq/fGx6zEW/pmq04t2iSUXg7MmC9G+x6oinjrxZfyWLpI5LJUt+TILMYRHXVwFGdM3w37GSDg=="
+  "signature": "LVrg2kXeS0cGnghUCwbYTsKSB54Etvkdu80LxtRFJG6L3qeas1/O0u1nl4dE9KQ9nAGrUXR96+WHsMwhbgh3BQ=="
 }
